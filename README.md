@@ -1,1 +1,1 @@
-# Covid-Deaths-Vaccinations-Project (SQL)
+# Covid-Deaths-Vaccinations-Project
